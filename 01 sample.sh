@@ -4,3 +4,5 @@ ls -l
 
 pwd
 
+ls
+
